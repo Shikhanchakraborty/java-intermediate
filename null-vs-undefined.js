@@ -27,3 +27,17 @@ console.log(fun)
 
 const fun = null;
  console.log(fun)
+
+class
+class Shikhan{
+    constructor(sname,sid){
+        this.name=sname;
+        this.id = sid
+    }
+}
+
+const result = new Shikhan ("kakan","01562.0");
+console.log(result)
+
+
+
